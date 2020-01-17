@@ -1,0 +1,14 @@
+D:\Work_BE_API\netcoreapp\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.deps.json
+D:\Work_BE_API\netcoreapp\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.json
+D:\Work_BE_API\netcoreapp\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.dev.json
+D:\Work_BE_API\netcoreapp\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.dll
+D:\Work_BE_API\netcoreapp\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.pdb
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.csprojAssemblyReference.cache
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cache
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cs
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfoInputs.cache
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfo.cs
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.dll
+D:\Work_BE_API\netcoreapp\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.pdb
